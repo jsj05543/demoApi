@@ -90,6 +90,18 @@ public class Controller {
 	members.add(member1);
 	members.add(member2);
 	members.add(member3);
+	
+	Member member4 = new Member();
+	member4.setName("BAO1");
+	member4.setAge(32);
+	member4.setContry("JAPAN");
+	member4.setSex("M");
+	
+	members.add(member1);
+	members.add(member2);
+	members.add(member3);
+	members.add(member4);
+	
 
 	human.setMembers(members);
 
