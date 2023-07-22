@@ -20,7 +20,7 @@ git remote add origin https://github.com/your-name/project-name.git
 ```
 git push -u origin master
 ```
-# localhost:8080/human/CHINA
+# APIアクセス
 ```
 localhost:8080/human
 localhost:8080/human/{contry}
